@@ -108,7 +108,7 @@ useMutation(CREATE_MOVIE, {
 })
 ```
 
-<-- IMG OF THE APOLLO CACHE KEYS -->
+![](cache-keys.png)
 
 As you can see the pattern for the cache keys will be the name of the query followed by a unique number identifier. Therefore we can simply invalidate the cache keys based on the name of the query.
 
