@@ -151,4 +151,4 @@ As you can see the pattern for the cache keys will be the name of the query foll
 
 ## Conclusion
 
-To wrap things out, I just want to point out that none of these solutions are "perfect". You will likely need to play around with a few of them to determine which one best suits your application. The Apollo team is well aware of the problem and are working on a solution. Hopefully sooner than later, Apollo will provide us with better ways to overcome these challenges, but until then, I hope you'll find this to be helpful!
+To wrap things up. None of these solutions are "perfect". You will likely need to play around with a few of them to determine which one best suits your application. The Apollo team is well aware of the problem and are working on a solution. Hopefully sooner than later, They will provide us with better ways to overcome these challenges, but until then, I hope you'll find this article helpful!
